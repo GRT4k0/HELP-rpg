@@ -1,0 +1,28 @@
+﻿  Character.cpp
+D:\C++_projects\RPG\RPG\Game.h(32,12): error C3646: 'character': unknown override specifier
+D:\C++_projects\RPG\RPG\Game.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Game.cpp
+D:\C++_projects\RPG\RPG\Character.h(12,19): error C2061: syntax error: identifier 'string'
+D:\C++_projects\RPG\RPG\Character.h(20,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++_projects\RPG\RPG\Character.h(20,21): error C2143: syntax error: missing ';' before '&'
+D:\C++_projects\RPG\RPG\Character.h(20,15): error C7524: 'inline' specifier cannot appear on a block-scope declaration or non-static data member
+D:\C++_projects\RPG\RPG\Character.h(20,39): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\C++_projects\RPG\RPG\Character.h(61,2): error C2327: 'Character::string': is not a type name, static, or enumerator
+D:\C++_projects\RPG\RPG\Character.h(61,2): message : see declaration of 'Character::string'
+D:\C++_projects\RPG\RPG\Character.h(61,9): error C3646: 'Name': unknown override specifier
+D:\C++_projects\RPG\RPG\Character.h(61,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++_projects\RPG\RPG\Game.cpp(21,11): error C2660: 'Character::initialize': function does not take 1 arguments
+D:\C++_projects\RPG\RPG\Character.h(12,7): message : see declaration of 'Character::initialize'
+D:\C++_projects\RPG\RPG\Game.cpp(21,11): message : while trying to match the argument list '(std::string)'
+  RPG.cpp
+D:\C++_projects\RPG\RPG\Character.h(12,19): error C2061: syntax error: identifier 'string'
+D:\C++_projects\RPG\RPG\Character.h(20,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++_projects\RPG\RPG\Character.h(20,21): error C2143: syntax error: missing ';' before '&'
+D:\C++_projects\RPG\RPG\Character.h(20,15): error C7524: 'inline' specifier cannot appear on a block-scope declaration or non-static data member
+D:\C++_projects\RPG\RPG\Character.h(20,39): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\C++_projects\RPG\RPG\Character.h(61,2): error C2327: 'Character::string': is not a type name, static, or enumerator
+D:\C++_projects\RPG\RPG\Character.h(61,2): message : see declaration of 'Character::string'
+D:\C++_projects\RPG\RPG\Character.h(61,9): error C3646: 'Name': unknown override specifier
+D:\C++_projects\RPG\RPG\Character.h(61,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C++_projects\RPG\RPG\RPG.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
